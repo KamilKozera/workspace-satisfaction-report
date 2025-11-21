@@ -8,6 +8,22 @@ The report focuses on workplace satisfaction, IT infrastructure reliability, sof
 
 **Disclaimer:** This project is a portfolio demonstration based on real-world requirements. To ensure data privacy and confidentiality, **all data has been fully anonymized**. The department names (e.g., WAiAP, WMN, WSS) are randomized placeholders, and the specific survey questions have been modified.
 
+<div align="center">
+  <img src="page_1.png" width="100%" />
+  <img src="page_2.png" width="100%" />
+  <img src="page_3.png" width="100%" />
+  <img src="page_4.png" width="100%" />
+  <img src="page_5.png" width="100%" />
+  <img src="page_6.png" width="100%" />
+  <img src="page_7.png" width="100%" />
+  <img src="page_8.png" width="100%" />
+  <img src="page_9.png" width="100%" />
+  <img src="page_10.png" width="100%" />
+  <img src="page_11.png" width="100%" />
+  <img src="page_12.png" width="100%" />
+  <img src="page_13.png" width="100%" />
+</div>
+
 #### Report: [overall_workplace_satisfaction_score.pdf](https://github.com/user-attachments/files/23671922/overall_workplace_satisfaction_score.pdf)
 
 ## Dynamic Logic Demonstration

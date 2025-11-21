@@ -8,24 +8,6 @@ The report focuses on workplace satisfaction, IT infrastructure reliability, sof
 
 **Disclaimer:** This project is a portfolio demonstration based on real-world requirements. To ensure data privacy and confidentiality, **all data has been fully anonymized**. The department names (e.g., WAiAP, WMN, WSS) are randomized placeholders, and the specific survey questions have been modified.
 
-<div align="center">
-  <img src="page_1.png" width="100%" />
-  <img src="page_2.png" width="100%" />
-  <img src="page_3.png" width="100%" />
-  <img src="page_4.png" width="100%" />
-  <img src="page_5.png" width="100%" />
-  <img src="page_6.png" width="100%" />
-  <img src="page_7.png" width="100%" />
-  <img src="page_8.png" width="100%" />
-  <img src="page_9.png" width="100%" />
-  <img src="page_10.png" width="100%" />
-  <img src="page_11.png" width="100%" />
-  <img src="page_12.png" width="100%" />
-  <img src="page_13.png" width="100%" />
-</div>
-
-#### Report: [overall_workplace_satisfaction_score.pdf](https://github.com/user-attachments/files/23671922/overall_workplace_satisfaction_score.pdf)
-
 ## Dynamic Logic Demonstration
 
 The animation below demonstrates the report's ability to dynamically recalculate insights based on the selected department. Notice how the Executive Summary text updates automatically, only displaying metrics that meet specific statistical criteria.
@@ -79,3 +61,22 @@ The report is designed for export to PDF and includes:
 *   **Advanced DAX:** Creating dynamic text measures and conditional formatting rules based on slicer selection.
 *   **Statistical Awareness:** Implementing filters to exclude statistically insignificant data (N < 30) from the executive summary.
 *   **User-Centric Design:** Designing for specific stakeholder needs (individualized department reports).
+
+## Report: [overall_workplace_satisfaction_score.pdf](https://github.com/user-attachments/files/23671922/overall_workplace_satisfaction_score.pdf)
+<div align="center">
+  <img src="page_1.png" width="100%" />
+  <img src="page_2.png" width="100%" />
+  <img src="page_3.png" width="100%" />
+  <img src="page_4.png" width="100%" />
+  <img src="page_5.png" width="100%" />
+  <img src="page_6.png" width="100%" />
+  <img src="page_7.png" width="100%" />
+  <img src="page_8.png" width="100%" />
+  <img src="page_9.png" width="100%" />
+  <img src="page_10.png" width="100%" />
+  <img src="page_11.png" width="100%" />
+  <img src="page_12.png" width="100%" />
+  <img src="page_13.png" width="100%" />
+</div>
+
+
